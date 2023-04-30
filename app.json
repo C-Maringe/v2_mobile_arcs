@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "v2_mobile_arcs",
+    "slug": "v2_mobile_arcs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "v2_mobile_arcs"
+}
